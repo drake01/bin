@@ -1,0 +1,6 @@
+#!/bin/bash
+cp --archive $HOME/.cache/compizconfig-{1bak.Jan20-1147,1}
+cp --archive $HOME/.config/compiz-{1bak.Jan20-1147,1}
+cp --archive $HOME/.gconf/apps/compiz-{1bak.Jan20-1147,1}
+cp --archive $HOME/.gconf/apps/compizconfig-{1bak.Jan20-1147,1}
+cp --archive $HOME/.compiz-{1bak.Jan20-1147,1}

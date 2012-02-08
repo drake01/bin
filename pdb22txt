@@ -1,0 +1,8 @@
+ #!/usr/bin/perl
+
+ use Palm::os;
+ use Encode;
+ my $filename = $ARGV[0];
+ $pdb = new Palm::PDB;
+ $pdb->Load($filename); 
+ foreach (@{$pdb->{records}}) { print decode("iso-8859-1", $_->{data}); }

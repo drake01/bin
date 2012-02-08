@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo apt-get --print-uris --yes upgrade | grep ^\' | cut -d\' -f2 > ~/tmp/scripteddownloads/update.`date +"%b%d"`

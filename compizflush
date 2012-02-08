@@ -1,0 +1,4 @@
+#!/bin/bash
+rm -r .cache/compizconfig-1
+rm -r .config/compiz-1
+rm -r .gconf/apps/compiz-1 .gconf/apps/compizconfig-1

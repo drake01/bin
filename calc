@@ -1,0 +1,13 @@
+#!/bin/sh
+
+python -i -c 'from math import *;
+
+def ld(x):
+    return log(x)/log(2)
+
+def binom(n,k):
+    return reduce(lambda a,b: a*(n-b)/(b+1),xrange(k),1)
+
+print "Welcome to the ultimate calculator."'
+
+# vim: ft=python

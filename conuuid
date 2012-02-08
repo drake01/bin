@@ -1,0 +1,2 @@
+#!/bin/sh
+nmcli con up uuid 5295097b-3d3c-4546-b644-50d9250c56c9

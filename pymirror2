@@ -1,0 +1,2 @@
+#!/bin/bash
+for i in `cat /media/shooty/python3/hello2`; do hg clone http://hg.python.org/$i ; done

@@ -1,0 +1,6 @@
+#!/bin/bash
+cp --archive $HOME/.cache/compizconfig-{1,1bak.`date +"%b%d-%H%M"`}
+cp --archive $HOME/.config/compiz-{1,1bak.`date +"%b%d-%H%M"`}
+cp --archive $HOME/.gconf/apps/compiz-{1,1bak.`date +"%b%d-%H%M"`}
+cp --archive $HOME/.gconf/apps/compizconfig-{1,1bak.`date +"%b%d-%H%M"`}
+cp --archive $HOME/.compiz-{1,1bak.`date +"%b%d-%H%M"`}

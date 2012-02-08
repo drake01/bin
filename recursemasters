@@ -1,0 +1,2 @@
+#!/bin/sh 
+for i in `iterateoverdirs`; do cd $i; ~/bin/forwithbreaks ; cd ../ ; done;

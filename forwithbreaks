@@ -1,0 +1,11 @@
+#!/bin/sh
+cat index.txt> ../hello/maSTER_`parentofafile`
+
+for i in *.txt;
+do
+    echo $'\n\n\n\t\t+++++++++++++******************' >> ../hello/"maSTER_`parentofafile`";
+    echo $i >> ../hello/"maSTER_`parentofafile`";
+    echo '************************++++++++++++++++++++++' >> ../hello/"maSTER_`parentofafile`";
+    echo $'\n\n\n' >> ../hello/"maSTER_`parentofafile`";
+    cat $i >> ../hello/maSTER_`parentofafile`; 
+done 

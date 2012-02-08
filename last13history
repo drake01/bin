@@ -1,0 +1,2 @@
+#!/bin/sh
+history | cut -d  " "  -f 3-  | sort   |  uniq -dc | sort -h | tail -13 | sort -h

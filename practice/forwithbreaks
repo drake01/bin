@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cat index.txt> maSTER_`parentofafile`
+
+for i in *.txt; do cat $i >>maSTER ; echo $'\n\n\n\t\t+++++++++++++******************************************++++++++++++++++++++++\n\n\n' >>maSTER_`parentofafile` ; done 
