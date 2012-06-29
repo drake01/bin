@@ -1,0 +1,2 @@
+#!/bin/bash
+irssi --hostname=whydoi --connect=irc.oftc.net --port=6667

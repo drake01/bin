@@ -3,6 +3,6 @@ echo "INFO FROM PROC1 ****";
 cat /proc/acpi/battery/BAT0/info;
 echo "INFO FROM PROC2 ****";
 cat /proc/acpi/battery/BAT0/state;
-echo "INFO FROM ACPI -V";
-acpi -V; 
+echo "INFO FROM ACPI -V ****";
+acpi -V | head -3; 
 

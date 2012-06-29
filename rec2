@@ -1,0 +1,1 @@
+for i in `find` ; do  echo $i; echo "***"; grep -i $1  $i; echo "*****************"; done | less

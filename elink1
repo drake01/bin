@@ -1,0 +1,6 @@
+#!/bin/sh
+mv $HOME/.elinks/  $HOME/.elinks.bakwithpurpose;
+mv $HOME/.elinksbakedpur $HOME/.elinks;
+elinks;
+mv $HOME/.elinks/ $HOME/.elinksbakedpur
+mv $HOME/.elinks.bakwithpurpose $HOME/.elinks

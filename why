@@ -1,0 +1,12 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following extra packages will be installed:
+  fglrx-amdcccle
+The following NEW packages will be installed:
+  fglrx fglrx-amdcccle
+0 upgraded, 2 newly installed, 0 to remove and 3 not upgraded.
+Need to get 41.8 MB of archives.
+After this operation, 130 MB of additional disk space will be used.
+Do you want to continue [Y/n]? 'http://ubuntu.oss.eznetsols.org/ubuntu/pool/restricted/f/fglrx-installer/fglrx_8.881-0ubuntu4.1_amd64.deb' fglrx_2%3a8.881-0ubuntu4.1_amd64.deb 36188012 MD5Sum:ef68d8f5929f7e2f6e3bbe70be47f8e0
+'http://ubuntu.oss.eznetsols.org/ubuntu/pool/restricted/f/fglrx-installer/fglrx-amdcccle_8.881-0ubuntu4.1_amd64.deb' fglrx-amdcccle_2%3a8.881-0ubuntu4.1_amd64.deb 5627926 MD5Sum:f752c635976c016e73a7e684f48082de

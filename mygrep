@@ -1,0 +1,2 @@
+#! /bin/sh
+for i in `find`;do  echo $i; echo "***"; grep $1 $i; echo "*****************"; done | less
