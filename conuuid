@@ -1,2 +1,9 @@
 #!/bin/sh
-nmcli con up uuid 7ff02945-a1b5-4177-98b1-55d67da66a78
+#nmcli con up uuid 7ff02945-a1b5-4177-98b1-55d67da66a78
+#nmcli con up uuid efb0bab3-a536-436b-b71f-452e8d9fae98
+#nmcli con up uuid 8406a30b-19f1-43fc-9114-1c4d13d84fe6
+#nmcli con up uuid e73415ff-a9a5-4c5c-bbad-640850df5e5e
+#nmcli con up uuid  0114f4b6-d8ec-4977-a0d5-fb1d720da144 
+#nmcli con up uuid  887b7b17-9950-46a7-9b95-e8cdcf7babd7
+#nmcli con up uuid  ad0be7ad-93b3-426e-ad12-23b17269d26d
+nmcli con up uuid  f141578e-6ac5-4ec6-952e-7fe57eccee03

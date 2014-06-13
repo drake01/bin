@@ -1,0 +1,2 @@
+sudo modprobe usbserial vendor=0x1c9e product=0x9605
+nmcli con up uuid 43b824ee-dac6-4ebd-9e02-94b73043ddaa

@@ -1,0 +1,2 @@
+#!/bin/bash
+for i in *;do mv  XSLT.pdf /bin/ls: cannot access xslt.pdf: no such file or directory;done

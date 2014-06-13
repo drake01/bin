@@ -1,0 +1,4 @@
+#! /bin/sh
+enscript -B -p /tmp/$1.ps $1.txt 
+ps2pdf /tmp/$1.ps $1.pdf
+rm /tmp/$1.ps

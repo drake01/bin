@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo mv /etc/hostname{,2}
+sudo mv /etc/hostname{bak,}

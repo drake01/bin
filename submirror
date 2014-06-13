@@ -1,0 +1,2 @@
+#!/bin/sh
+wget --mirror -p --adjust-extension --no-parent --convert-links $1

@@ -1,0 +1,2 @@
+#!/bin/sh
+nmcli con down uuid  f141578e-6ac5-4ec6-952e-7fe57eccee03

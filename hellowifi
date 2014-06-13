@@ -1,2 +1,4 @@
 #!/bin/sh
-nmcli con up uuid 54e36953-2478-4c35-baf7-838e014bc751
+#oldapril28- 54e36953-2478-4c35-baf7-838e014bc751
+#nmcli con up uuid  07150b5d-d68d-4719-a907-cb71784c133b
+nmcli con up uuid e63466ef-9f76-4838-97df-2503de37b5a7
